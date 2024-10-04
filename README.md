@@ -2,9 +2,7 @@
 [![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/CyberToolz)
 
 #  Bot for Boinkers
-
-
-
+![start-boinkers](https://github.com/user-attachments/assets/68e81def-204c-40e0-8915-252f7b12d006)
 
 # 🔥🔥 PYTHON version must be 3.10 - 3.11.5 🔥🔥
 
