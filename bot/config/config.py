@@ -17,8 +17,6 @@ class Settings(BaseSettings):
     BLACK_LIST_TASKS: list[str] = [
          'telegramShareStory',
          'emojiOnPostTelegramNewsChannel',
-         'NotGoldReward',
-         'NotPlatinumReward',
          'connectTonWallet',
          'telegramJoinBoinkersNewsChannel',
          'telegramBoost',
@@ -28,7 +26,6 @@ class Settings(BaseSettings):
          'AnimalsAndCoinsInstall',
          'playCornBattle',
          'NBPSep',
-         'inviteAFriend',
          'MergePalsQuests',
          'playAAO',
          'playPiggyPiggy'
