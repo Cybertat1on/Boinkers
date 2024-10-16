@@ -10,7 +10,7 @@ class Settings(BaseSettings):
     REF_ID: str = 'boink1197825376'
 
     USE_RANDOM_DELAY_IN_RUN: bool = True
-    RANDOM_DELAY_IN_RUN: list[int] = [5, 60]
+    RANDOM_DELAY_IN_RUN: list[int] = [5, 30]
 
     AD_TASK_PREFIX: str = 'AdTask'
 
